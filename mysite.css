@@ -16,13 +16,22 @@ body {
 
 h1 {
 	font-family: Georgia, serif;
-	border-bottom: 3px solid #cc9900;
-	color: #996600;
+	border-bottom: 3px solid #3366ff;
+	color: #003366;
 	font-size: 30px;
+}
+
+h2 {
+	color: #3366ff;
 }
 
 p.indent {
 	padding-left: 1cm;
+	margin-right: 65%;
+}
+
+p.bracket {
+	color: black;
 }
 
 table {
@@ -60,7 +69,7 @@ ul#menu li a {
     background-color: #ffffff;
     padding: 10px 20px;
     text-decoration: none;
-    color: #696969;
+    color: #003366;
     border-radius: 4px 4px 0 0;
 }
 
